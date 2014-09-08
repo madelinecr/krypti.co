@@ -1,7 +1,7 @@
-kryten-http
-===========
+krypti.co
+=========
 
-This repo contains static pages for my development web server 'kryten'. It's
-really boring stuff, like my custom 404 page and links to `public_html`
-directories for my local user(s). Browsing this repo might put you to sleep,
-you've been warned.
+This repo contains static pages for my personal web server 'krypti.co'. It's
+really boring stuff, like my custom home page, links to `public_html`
+directories for my local user(s), and links to other services running on the
+system. Browsing this repo might put you to sleep, you've been warned.
